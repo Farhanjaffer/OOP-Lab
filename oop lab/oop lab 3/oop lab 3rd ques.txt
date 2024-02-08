@@ -1,0 +1,16 @@
+q1..
+wap to represent the class student with following specifications-->
+private members--> are roll num, name , six subjects name , total 
+public numbers--> input function for resp data members
+display the grade
+if marks in between 91-100 o grade
+81-90 e grade
+71-80 a grade
+61-70 b grade below the above marks f grade  
+
+q2...
+wap to represent bank account wiht following specifications 
+private -->name of depositer,type of account,account number,balance amount in the account
+public-->to assign initial values, to withdraw an amount after checking balance, deposit an amount, display name and balance...
+
+q3...
